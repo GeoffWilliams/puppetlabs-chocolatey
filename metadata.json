@@ -1,11 +1,11 @@
 {
-  "name": "puppetlabs-chocolatey",
-  "version": "3.0.0",
-  "author": "Puppet Inc",
+  "name": "geoffwilliams-chocolatey",
+  "version": "3.0.1",
+  "author": "Geoff Williams",
   "summary": "Chocolatey package provider for Puppet",
   "license": "Apache-2.0",
-  "source": "https://github.com/puppetlabs/puppetlabs-chocolatey",
-  "project_page": "https://github.com/puppetlabs/puppetlabs-chocolatey",
+  "source": "https://github.com/geoffwilliams/puppetlabs-chocolatey",
+  "project_page": "https://github.com/geoffwilliams/puppetlabs-chocolatey",
   "issues_url": "https://tickets.puppet.com/CreateIssueDetails!init.jspa?pid=10707&issuetype=1&team=Modules&customfield_14200=14302&labels=triage&customfield_10005=2147&summary=Issue+found+with+module%3A+puppetlabs-chocolatey",
   "description": "Chocolatey package provider for Puppet",
   "tags": [

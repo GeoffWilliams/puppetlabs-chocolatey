@@ -1,5 +1,7 @@
 # Chocolatey Package Provider for Puppet
 
+# Customer hotfix module - do not use unless instructed
+
 ### Chocolatey for Business Now Available!
 
 We're excited for you to learn more about what's available in the [Business editions](https://chocolatey.org/compare)!
