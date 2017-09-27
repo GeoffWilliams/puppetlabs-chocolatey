@@ -183,6 +183,12 @@ class {'chocolatey':
 }
 ~~~
 
+#### Install chocolatey using a proxy server
+
+~~~puppte
+class {'chocolatey':
+  install_proxy => 'http://proxy.megacorp.com:3128',
+}
 
 ### Configuration
 
